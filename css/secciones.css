@@ -1,0 +1,56 @@
+/* Secciones del sitio */
+
+.home {
+    background: #FFFFFF url('../assets/fondobody.jpg') no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10% 0;
+    box-sizing: border-box;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+
+.home2 {
+    background: #FFFFFF url('../assets/fondobody.jpg') no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10% 0;
+    box-sizing: border-box;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+}
+.full-height {
+    height: 100%;
+    padding: 20% 0;
+}
+
+.single {
+    margin-top: 0;
+    margin-bottom: 100px;
+    top:0;
+}
+
+.info {
+    background-color: #eaeff5;
+    color: #888d9b;
+    padding: 20px;
+    font-size: 10px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.hijo {
+    text-align: right;
+
+}
+
+.top_header {
+
+    background-color: #555353;
+    top:0;
+    bottom: 0;
+    padding: 10px;
+
+}
